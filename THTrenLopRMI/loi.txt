@@ -1,0 +1,2 @@
+trả về exception : Loi tao hoac dang ki doi tuong tu xa!
+Khi java -Djava.security.policy=file://C/Users/chanh/eclipse-workspace/Lap_Trinh_Mang/src/policy.java helloServer

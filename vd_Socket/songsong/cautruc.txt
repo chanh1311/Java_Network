@@ -1,0 +1,8 @@
+Server - Noi ket
+// Tao Socket va cho noi ket //
+// Lang nghe yeu cau va chap nhan noi ket //
+// Tạo ra luông mới xử lí cho client vua noi ket //
+Server - Xu li
+// Tao ra class ke thua class luong //
+// Khai bao thuoc tinh va ham tao de gan Socket //
+// Tao ra phuong thuc run de xu ly tren luong nay //

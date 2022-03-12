@@ -1,0 +1,9 @@
+// Tao Socket va ket noi den Server //
+// Tao kenh giao tiep //
+// Su dung vòng while cho phep nhap nhieu lan //
+// Nhap chuoi bang phuong thuc Scanner //
+// Kiem tra dieu kien thoat //
+// Goi du lieu qua Server //
+// Nhen ket qua ve tu Server //
+// Hien thi ket qua //
+// Dong noi ket //
